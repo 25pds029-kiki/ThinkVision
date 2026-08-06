@@ -3,4 +3,3 @@ b = 5
 print ("the sum of a and b", a+b)
 print("the subraction of a and b", a-b)
 print("hello world")
-print("machine learning")
